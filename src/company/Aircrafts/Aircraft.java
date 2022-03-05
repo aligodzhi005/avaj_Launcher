@@ -1,4 +1,4 @@
-package company;
+package company.Aircrafts;
 
 public abstract class Aircraft {
     protected long id;
@@ -14,5 +14,17 @@ public abstract class Aircraft {
 
     private long nextId() {
         return ++idCounter;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public long getId() {
+        return id;
+    }
+
+    public Coordinates getCoordinates() {
+        return coordinates;
     }
 }
