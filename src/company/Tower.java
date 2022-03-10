@@ -12,6 +12,7 @@ public abstract class Tower {
     public void unregister(Flyable flyable) {
         observers.remove(flyable);
     };
+
     protected void conditionsChanged() {
         for (int i = 0; i < observers.size(); i++) {
             observers.get(i).updateCondition();

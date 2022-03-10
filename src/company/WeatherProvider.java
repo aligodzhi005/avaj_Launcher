@@ -1,7 +1,5 @@
 package company;
 
-import company.Aircrafts.Coordinates;
-
 public class WeatherProvider {
     private static WeatherProvider weatherProvider;
     private final String[] weatherType = {"RAIN", "FOG", "SUN", "SNOW"};

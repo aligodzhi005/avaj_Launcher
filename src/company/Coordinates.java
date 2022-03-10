@@ -1,4 +1,4 @@
-package company.Aircrafts;
+package company;
 
 public class Coordinates {
     private int longitude;

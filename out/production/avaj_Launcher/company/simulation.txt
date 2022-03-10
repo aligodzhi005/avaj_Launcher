@@ -1,0 +1,190 @@
+Tower says: Baloon#B1(1)1registered to weather tower.
+Tower says: Baloon#B2(2)2registered to weather tower.
+Tower says: JetPlane#J1(3)3registered to weather tower.
+Tower says: Helicopter#H1(4)4registered to weather tower.
+Tower says: Helicopter#H2(5)5registered to weather tower.
+Tower says: Helicopter#H3(6)6registered to weather tower.
+Tower says: Baloon#B3(7)7registered to weather tower.
+Tower says: JetPlane#J2(8)8registered to weather tower.
+Tower says: Helicopter#H4(9)9registered to weather tower.
+Baloon#B1(1):Great weather! Flight is a pleasure.
+Baloon#B2(2):My rotor is going to freeze.
+Baloon#B2(2) landing. Longitude = 1, Latitude = 1, Height = -14.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):I am not looking at anything.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+Baloon#B1(1):Fucking rain it is hard to fly.
+JetPlane#J1(3):I am not looking at anything.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+Baloon#B1(1):I am not looking at anything.
+Baloon#B1(1) landing. Longitude = 4, Latitude = 12, Height = -2.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):I am not looking at anything.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Great weather! Flight is a pleasure.
+Baloon#B3(7):I am not looking at anything.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Fucking rain it is hard to fly.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Great weather! Flight is a pleasure.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):Fucking rain it is hard to fly.
+Baloon#B3(7):Great weather! Flight is a pleasure.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):I am not looking at anything.
+JetPlane#J1(3):Great weather! Flight is a pleasure.
+Helicopter#H1(4):Fucking rain it is hard to fly.
+Helicopter#H2(5):Great weather! Flight is a pleasure.
+Helicopter#H3(6):I am not looking at anything.
+Baloon#B3(7):Fucking rain it is hard to fly.
+JetPlane#J2(8):Great weather! Flight is a pleasure.
+Helicopter#H4(9):Great weather! Flight is a pleasure.

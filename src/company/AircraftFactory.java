@@ -1,8 +1,4 @@
-package company.Aircrafts;
-
-import company.Aircrafts.Coordinates;
-import company.Aircrafts.Flyable;
-import company.Aircrafts.Helicopter;
+package company;
 
 public class AircraftFactory {
     public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height) {

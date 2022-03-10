@@ -1,6 +1,4 @@
-package company.Aircrafts;
-
-import company.WeatherTower;
+package company;
 
 public interface Flyable {
     void updateCondition();

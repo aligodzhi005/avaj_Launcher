@@ -1,4 +1,4 @@
-package company.Aircrafts;
+package company;
 
 public abstract class Aircraft {
     protected long id;

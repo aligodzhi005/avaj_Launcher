@@ -1,12 +1,9 @@
-package company.Aircrafts;
+package company;
 
-import company.WeatherTower;
-import company.WriterToFile;
-
-public class JetPlane extends Aircraft implements Flyable{
+public class Baloon extends Aircraft implements Flyable{
     private WeatherTower weatherTower;
 
-    JetPlane(String name, Coordinates coordinates) {
+    Baloon(String name, Coordinates coordinates) {
         super(name, coordinates);
     }
 
@@ -15,20 +12,24 @@ public class JetPlane extends Aircraft implements Flyable{
         String weather = weatherTower.getWeather(coordinates);
         switch(weather) {
             case("SNOW"):
-                WriterToFile.writeToFile("JetPlane#" + getName() + "(" + getId() + ")"
+                WriterToFile.writeToFile("Baloon#" + getName() + "(" + getId() + ")"
                                             + ":My rotor is going to freeze.\n");
+                changeCoordinates(0, 0, -15);
                 break;
             case("FOG"):
-                WriterToFile.writeToFile("JetPlane#" + getName() + "(" + getId() + ")"
+                WriterToFile.writeToFile("Baloon#" + getName() + "(" + getId() + ")"
                         + ":I am not looking at anything.\n");
+                changeCoordinates(0, 0, -3);
                 break;
             case("SUN"):
-                WriterToFile.writeToFile("JetPlane#" + getName() + "(" + getId() + ")"
+                WriterToFile.writeToFile("Baloon#" + getName() + "(" + getId() + ")"
                         + ":Great weather! Flight is a pleasure.\n");
+                changeCoordinates(2, 0, 4);
                 break;
             case("RAIN"):
-                WriterToFile.writeToFile("JetPlane#" + getName() + "(" + getId() + ")"
+                WriterToFile.writeToFile("Baloon#" + getName() + "(" + getId() + ")"
                         + ":Fucking rain it is hard to fly.\n");
+                changeCoordinates(0, 10, -5);
                 break;
         }
     }
@@ -37,7 +38,7 @@ public class JetPlane extends Aircraft implements Flyable{
     public void registerTower(WeatherTower weatherTower) {
         this.weatherTower = weatherTower;
         weatherTower.register(this);
-        WriterToFile.writeToFile("Tower says: JetPlane#" + this.getName() + "(" + this.getId()
+        WriterToFile.writeToFile("Tower says: Baloon#" + this.getName() + "(" + this.getId()
                                     + ")" + this.getId() + "registered to weather tower.\n");
     }
 
@@ -52,12 +53,12 @@ public class JetPlane extends Aircraft implements Flyable{
         height += mathDifHeight;
 
         if (height < 0) {
-            this.weatherTower.unregister(this);
-            WriterToFile.writeToFile("JetPlane#" + this.name + "(" + this.id + ") landing. Longitude = " +
-                                                longitude + ", Latitude = " + latitude + ".");
-            WriterToFile.writeToFile("Tower says: JetPlane#" + this.name + "(" + this.id +
-                                                ") unregistered from weather tower.");
             height = 0;
+            this.weatherTower.unregister(this);
+            WriterToFile.writeToFile("Baloon#" + this.name + "(" + this.id + ") landing. Longitude = " +
+                                                longitude + ", Latitude = " + latitude + ", Height = " + height + ".\n");
+            WriterToFile.writeToFile("Tower says: Baloon#" + this.name + "(" + this.id +
+                                                ") unregistered from weather tower.\n");
         }
         if (height > 100)
             height = 100;

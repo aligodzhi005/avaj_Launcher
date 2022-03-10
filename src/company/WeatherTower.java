@@ -1,11 +1,16 @@
 package company;
 
-public class WeatherTower extends Tower{
+public class WeatherTower extends Tower {
     public String getWeather(Coordinates coordinates) {
-
+        return WeatherProvider.getWeatherProvider().getCurrentWeather(coordinates);
     }
 
-    private void changeWeather() {
-        this.changeWeather();
+    void changeWeather() {
+        super.conditionsChanged();
+    }
+
+    @Override
+    public void register(Flyable flyable) {
+        super.register(flyable);
     }
 }
